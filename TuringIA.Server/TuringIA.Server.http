@@ -1,0 +1,6 @@
+@TuringIA.Server_HostAddress = http://localhost:5184
+
+GET {{TuringIA.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
